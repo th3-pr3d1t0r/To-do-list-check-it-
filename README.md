@@ -17,9 +17,10 @@ Run: Once compiled, execute the ToDoList class (the main class) to launch the ap
 
 Screenshots:
 
-[Image 1: Here, replace this text with instructions on how to upload your screenshot of the app's title bar]
-[Image 2: Here, replace this text with instructions on how to upload your screenshot of the app with a task added]
-[Image 3: Here, replace this text with instructions on how to upload your screenshot of the app with a completed task]
+![screenshot of the to do list app](screenshots/Screenshot2024-07-29194547.png)
+![task added before completion](screenshots/Screenshot2024-07-291945472.png)
+![task after comletion ](screenshots/Screenshot2024-07-30170934.png)
+![text file after writting the code to the file](screenshots/Screenshot2024-07-30171003)
 
 Dependencies:
 
