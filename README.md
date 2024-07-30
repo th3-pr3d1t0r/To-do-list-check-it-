@@ -25,6 +25,9 @@ Screenshots:
 Dependencies:
 
 Java Runtime Environment (JRE)
-Contributing:
-
-Feel free to fork and modify this code to create your own customized to-do list app!
+Contributors :
+ANOSIKE UGOCHUKWU BHU/22/04/05/0115 (group leader)
+Prince Udoka Ajaero	BHU/22/04/09/0087
+Daniel David Odonugwa	BHU/22/04/09/0066
+Jesse Enajedu	BHU/22/04/09/0062
+Andrew Christabel Yunana	BHU/22/04/05/0105
